@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "template-web-automation"
-version = "0.0.1"
+version = "0.0.0"
 description = "A minimal Playwright web automation template baseline."
 readme = "README.md"
 requires-python = ">=3.14"
